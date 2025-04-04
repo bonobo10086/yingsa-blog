@@ -9,6 +9,8 @@ theme = "PaperMod"
   ShowToc = true
   ShowBreadCrumbs = true
   defaultTheme = "auto"
+  mainSections = ["posts"]
+
 
 [menu]
   [[menu.main]]
